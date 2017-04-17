@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#025b66</color>
+    <color name="colorPrimaryDark">#282f31</color>
+
+    <color name="colorAccent">#ffc540</color>
+    <color name="dark">#03687E</color>
+    <color name="light">#FFC540</color>
+    <color name="cardview_shadow_start_color">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="primary_text_material_light">#000000</color>
+    <color name="selected">#880e4f</color>
+    <color name="red">#ec2b2b</color>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/rw">
+        <item
+            android:id="@+id/first"
+            android:icon="@drawable/ic_book"
+            android:title="Books" />
+        <item
+            android:id="@+id/second"
+            android:icon="@drawable/ic_book"
+            android:title="Currently Issued" />
+        <item
+            android:id="@+id/third"
+            android:icon="@drawable/ic_book"
+            android:title="History" />
+
+        </group>
+
+        <item
+            android:id="@+id/five"
+            android:icon="@drawable/ic_card"
+            android:title="My card" />
+        <item
+            android:id="@+id/six"
+            android:icon="@drawable/ic_fine"
+            android:title="Fine" />
+    <group android:checkableBehavior="single"
+        android:id="@+id/re">
+
+        <item
+            android:id="@+id/fourth"
+            android:icon="@drawable/ic_logout"
+            android:title="Log Out" />
+</group>
+</menu>
